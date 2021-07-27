@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "342939174536",
+    "project_id": "comrade-37c8c",
+    "storage_bucket": "comrade-37c8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342939174536:android:921bf787c89ca1a680413d",
+        "android_client_info": {
+          "package_name": "com.comrade.podcast"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342939174536-u4io3gog17ioa372ribjugqlimphpt7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEBY2E2NVk9JZRgsjko2la5elSil_eCK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342939174536-u4io3gog17ioa372ribjugqlimphpt7h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "342939174536-dpeapnd8pfmfcvr8f9dm0vsiidqoaubu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.comrade.podcast"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342939174536:android:323009bde520e6c880413d",
+        "android_client_info": {
+          "package_name": "com.comrade.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342939174536-u4io3gog17ioa372ribjugqlimphpt7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEBY2E2NVk9JZRgsjko2la5elSil_eCK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342939174536-u4io3gog17ioa372ribjugqlimphpt7h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "342939174536-dpeapnd8pfmfcvr8f9dm0vsiidqoaubu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.comrade.podcast"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
